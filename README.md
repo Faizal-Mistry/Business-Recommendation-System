@@ -78,5 +78,5 @@ Offers an interactive and user-friendly interface for exploration and recommenda
 
 Author
 Faizal Mistry
-GitHub | LinkedIn
+
 
